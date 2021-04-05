@@ -1,0 +1,61 @@
+body {
+  background-color: rgba(138, 212, 18, 0.9);
+  box-sizing: border-box;
+}
+
+#user_table {
+  color: purple;
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+  font-size: 80px;
+  padding: 5px;
+}
+
+#user_table tr th {
+  border: 4px solid orangered;
+  text-align: center;
+  padding: 30px;
+  border-radius: 1rem;
+}
+
+#user_table tr td {
+  border: 4px solid orangered;
+  text-align: center;
+  padding: 5px;
+  border-radius: 1rem;
+}
+
+/* .container {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  display: inline;
+} */
+
+/* .head {
+  color: orange;
+  display: flex;
+  /* text-align: center; */
+/* justify-content: space-between;
+  border: 1px solid yellow; */
+
+/* .elements {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid yellow;
+  position: relative;
+} */
+
+/* .car {
+  border: 1px solid yellow;
+  border-radius: 1rem;
+  text-align: center;
+} */
+
+.carImg {
+  width: 300px;
+  height: 200px;
+}
